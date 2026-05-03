@@ -1,0 +1,23 @@
+# R
+.Rproj.user/
+.Rhistory
+.RData
+.Ruserdata
+*.Rproj
+
+# Data files (large; not tracked in git)
+data/raw/*.gz
+data/raw/*.txt
+data/raw/*.csv
+
+# Results and figures (reproducible from pipeline)
+results/
+figures/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Temporary
+*.tmp
+*.log
