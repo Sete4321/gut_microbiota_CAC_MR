@@ -73,7 +73,7 @@ Place the following files in `data/raw/`:
 | File | Source | Access |
 |------|--------|--------|
 | `MBG_allHits_p1e4.txt` | MiBioGen GWAS (Kurilshikov et al., Nat Genet 2021) | IEU OpenGWAS: https://gwas.mrcieu.ac.uk or contact alexa.kur@gmail.com |
-| `dmp_summary_stats_taxa.csv` | Dutch Microbiome Project (Gacesa et al., Nature 2022) | Dutch Microbiome Project: https://dutchmicrobiomeproject.molgeniscloud.org/ |
+| `dmp_summary_stats_taxa.csv` | Dutch Microbiome Project (Lopera-Maya et al., Nature Genet 2022) | Dutch Microbiome Project: https://dutchmicrobiomeproject.molgeniscloud.org/ or contact serena.sanna@irgb.cnr.it |
 | `GCST90278456_h_tsv.gz` | CAC GWAS (Kavousi et al., Nat Genet 2023) | EBI GWAS Catalog: https://www.ebi.ac.uk/gwas/studies/GCST90278456 |
 | `GCST90503074_h_tsv.gz` | SIS GWAS (Gummesson et al., Nat Commun 2025) | EBI GWAS Catalog: https://www.ebi.ac.uk/gwas/studies/GCST90503074 |
 
@@ -184,7 +184,7 @@ If you use this pipeline, please cite:
 
 And the underlying GWAS:
 - Kurilshikov A, et al. *Nat Genet.* 2021;53:156–165.
-- Gacesa R, et al. *Nature.* 2022;604:732–739.
+- Lopera-Maya EA, et al. *Nature Genet.* 2022;54:143–151.
 - Kavousi M, et al. *Nat Genet.* 2023;55:1651–1664.
 - Gummesson A, et al. *Nat Commun.* 2025;16:2266.
 
