@@ -56,7 +56,7 @@ gut_microbiota_CAC_MR/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/gut_microbiota_CAC_MR.git
+git clone https://github.com/Sete4321/gut_microbiota_CAC_MR.git
 cd gut_microbiota_CAC_MR
 ```
 
@@ -72,8 +72,8 @@ Place the following files in `data/raw/`:
 
 | File | Source | Access |
 |------|--------|--------|
-| `MBG_allHits_p1e4.txt` | MiBioGen GWAS (Kurilshikov et al., Nat Genet 2021) | IEU OpenGWAS: https://gwas.mrcieu.ac.uk or contact a.kurilshikov@umcg.nl |
-| `dmp_summary_stats_taxa.csv` | Dutch Microbiome Project (Gacesa et al., Nature 2022) | EBI GWAS Catalog: GCST90027446–GCST90027857 https://www.ebi.ac.uk/gwas/ |
+| `MBG_allHits_p1e4.txt` | MiBioGen GWAS (Kurilshikov et al., Nat Genet 2021) | IEU OpenGWAS: https://gwas.mrcieu.ac.uk or contact alexa.kur@gmail.com |
+| `dmp_summary_stats_taxa.csv` | Dutch Microbiome Project (Gacesa et al., Nature 2022) | Dutch Microbiome Project: https://dutchmicrobiomeproject.molgeniscloud.org/ |
 | `GCST90278456_h_tsv.gz` | CAC GWAS (Kavousi et al., Nat Genet 2023) | EBI GWAS Catalog: https://www.ebi.ac.uk/gwas/studies/GCST90278456 |
 | `GCST90503074_h_tsv.gz` | SIS GWAS (Gummesson et al., Nat Commun 2025) | EBI GWAS Catalog: https://www.ebi.ac.uk/gwas/studies/GCST90503074 |
 
