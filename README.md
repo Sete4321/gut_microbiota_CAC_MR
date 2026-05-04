@@ -196,4 +196,4 @@ MIT License — see [LICENSE](LICENSE) for details.
 
 ## Contact
 
-Open a GitHub issue or contact [your email] for questions about this pipeline.
+Open a GitHub issue or contact wolet03.2004@gmail.com for questions about this pipeline.
