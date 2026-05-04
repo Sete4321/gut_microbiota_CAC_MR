@@ -179,8 +179,8 @@ sessionInfo()
 
 If you use this pipeline, please cite:
 
-> [Author Names]. Gut Microbiota Composition and the Risk of Coronary Artery Calcification:
-> A Genome-Wide Mendelian Randomization Meta-Analysis. [Journal] [Year].
+> Eshetie S, et al. Gut Microbiota Composition and the Risk of Coronary Artery Calcification:
+> A Genome-Wide Mendelian Randomization Meta-Analysis. 2026.
 
 And the underlying GWAS:
 - Kurilshikov A, et al. *Nat Genet.* 2021;53:156–165.
